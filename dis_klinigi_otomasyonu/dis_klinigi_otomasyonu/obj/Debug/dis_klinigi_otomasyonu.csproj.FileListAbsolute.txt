@@ -1,0 +1,15 @@
+C:\Users\Huawei\source\repos\dis_klinigi_otomasyonu\dis_klinigi_otomasyonu\obj\Debug\dis_klinigi_otomasyonu.csproj.AssemblyReference.cache
+C:\Users\Huawei\source\repos\dis_klinigi_otomasyonu\dis_klinigi_otomasyonu\obj\Debug\dis_klinigi_otomasyonu.Form1.resources
+C:\Users\Huawei\source\repos\dis_klinigi_otomasyonu\dis_klinigi_otomasyonu\obj\Debug\dis_klinigi_otomasyonu.Properties.Resources.resources
+C:\Users\Huawei\source\repos\dis_klinigi_otomasyonu\dis_klinigi_otomasyonu\obj\Debug\dis_klinigi_otomasyonu.Randevu.resources
+C:\Users\Huawei\source\repos\dis_klinigi_otomasyonu\dis_klinigi_otomasyonu\obj\Debug\dis_klinigi_otomasyonu.csproj.GenerateResource.cache
+C:\Users\Huawei\source\repos\dis_klinigi_otomasyonu\dis_klinigi_otomasyonu\obj\Debug\dis_klinigi_otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Huawei\source\repos\dis_klinigi_otomasyonu\dis_klinigi_otomasyonu\bin\Debug\dis_klinigi_otomasyonu.exe.config
+C:\Users\Huawei\source\repos\dis_klinigi_otomasyonu\dis_klinigi_otomasyonu\bin\Debug\dis_klinigi_otomasyonu.exe
+C:\Users\Huawei\source\repos\dis_klinigi_otomasyonu\dis_klinigi_otomasyonu\bin\Debug\dis_klinigi_otomasyonu.pdb
+C:\Users\Huawei\source\repos\dis_klinigi_otomasyonu\dis_klinigi_otomasyonu\obj\Debug\dis_klinigi_otomasyonu.exe
+C:\Users\Huawei\source\repos\dis_klinigi_otomasyonu\dis_klinigi_otomasyonu\obj\Debug\dis_klinigi_otomasyonu.pdb
+C:\Users\Huawei\source\repos\dis_klinigi_otomasyonu\dis_klinigi_otomasyonu\obj\Debug\dis_klinigi_otomasyonu.Hasta.resources
+C:\Users\Huawei\source\repos\dis_klinigi_otomasyonu\dis_klinigi_otomasyonu\obj\Debug\dis_klinigi_otomasyonu.Recete.resources
+C:\Users\Huawei\source\repos\dis_klinigi_otomasyonu\dis_klinigi_otomasyonu\obj\Debug\dis_klinigi_otomasyonu.Tedavi.resources
+C:\Users\Huawei\source\repos\dis_klinigi_otomasyonu\dis_klinigi_otomasyonu\obj\Debug\dis_klinigi_otomasyonu.User.resources
